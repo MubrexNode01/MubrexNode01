@@ -1,27 +1,80 @@
 # 👋 Hi, I'm Mubarak Adebayo Mustapha (aka MubrexNode01)
 
-Cloud Architect, Backend Software Engineer, Security Architect, and DevOps Enthusiast
+**Cloud Architect · Backend Engineer · Security Architect**
 
-Welcome to my GitHub space. I’m Mubarak, and I’m passionate about using technology to solve real problems—especially those facing Africa. My work brings together cloud computing, backend development, security, and DevOps to build scalable and secure solutions that make a difference.
+---
 
-Right now, I’m diving deep into cloud-native architectures, backend systems, and cybersecurity. I love exploring how these fields overlap to tackle challenges both globally and locally. My goal is to empower people and communities by creating technology that’s reliable, secure, and impactful.
+**🌍 About Me**
 
-I work a lot with AWS, and I’m looking forward to adding Azure to my toolkit soon. I’m very comfortable with Linux, Python, networking, SQL, and data analytics. DevOps is a big part of my process—I love using CI/CD pipelines and containerization to build and deploy reliable systems.
+- I’m passionate about solving real problems with technology, especially those affecting Africa.
+- My expertise spans cloud computing, backend development, and cybersecurity.
+- I care about building scalable, secure, and reliable systems that make a positive impact.
 
-Security is always a top priority for me. I pay close attention to threat modeling, vulnerability assessments, and secure coding practices to make sure solutions are resilient and trustworthy.
+---
 
-Collaboration and empathy matter just as much as technical expertise. I believe in clear communication, first principles thinking, and putting people at the heart of every project.
+**🚀 What I’m Working On**
 
-If you’re interested in DevOps, cloud engineering, backend solutions, or building resilient systems, check out my featured project:
+- Designing and deploying cloud-native architectures
+- Optimizing backend systems for performance and security
+- Exploring distributed systems, automation, and tech for social good
 
-[ALX System Engineering DevOps](https://github.com/MubrexNode01/alx-system_engineering-devops)  
-This repository documents my growth as a technologist and showcases my work in DevOps, cloud, and backend engineering for Africa.
+---
 
-I’m always learning; whether it’s about distributed systems, security best practices, automation, or using software engineering for social impact. Open source and tech for good really motivate me.
+**🛠️ Technical Skills**
 
-Want to connect?  
-Find me on [LinkedIn](https://www.linkedin.com/in/mubarak-a-m/), [Twitter/X](https://x.com/MustyMubrex), or my [Google Site](https://sites.google.com/view/mubarakade).
+- **Cloud Platforms:** AWS (actively learning and using), Azure (learning)
+- **Linux:** System administration and troubleshooting
+- **Programming:** Python
+- **Networking:** Setup, management, troubleshooting
+- **Databases & Data Analytics:** SQL, visualization, data-driven insights
+- **Automation & Orchestration:** CI/CD pipelines, Docker, Kubernetes
+- **Security:** Threat modeling, vulnerability assessment, secure coding, information security best practices
 
-When I’m not coding, I love reading, traveling, playing football, and discovering new tech ideas.
+---
 
-Technology is a catalyst for change. Let’s build a smarter, safer, and more inclusive future for Africa and the world.
+**🤝 Soft Skills**
+
+- Collaboration and empathy
+- Clear communication
+- First principles thinking
+- Human-centered design
+- Attention to detail
+
+---
+
+**🔥 Featured Project**
+
+- [ALX System Engineering DevOps](https://github.com/MubrexNode01/alx-system_engineering-devops)  
+  My journey in systems engineering, cloud, and backend for Africa.
+
+---
+
+**📚 Always Learning**
+
+- Distributed systems
+- Security best practices
+- Automation
+- Software engineering for social impact
+- Open source and “tech for good” projects
+
+---
+
+**🌐 Connect With Me**
+
+- [LinkedIn](https://www.linkedin.com/in/mubarak-a-m/)
+- [Twitter/X](https://x.com/MustyMubrex)
+- [Google Site](https://sites.google.com/view/mubarakade)
+
+---
+
+**⚽ Fun Facts**
+
+- I love reading, traveling, playing football, and exploring new tech ideas.
+
+---
+
+**💡 Vision**
+
+- I believe technology is a catalyst for change.  
+  Let’s build a smarter, safer, and more inclusive future for Africa and the world.
+
