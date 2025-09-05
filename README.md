@@ -1,45 +1,27 @@
 # 👋 Hi, I'm Mubarak Adebayo Mustapha (aka MubrexNode01)
 
-**Cloud Architect · Backend Software Engineer · Security Architect**
+Cloud Architect, Backend Software Engineer, Security Architect, and DevOps Enthusiast
 
-## About Me
+Welcome to my GitHub space. I’m Mubarak, and I’m passionate about using technology to solve real problems—especially those facing Africa. My work brings together cloud computing, backend development, security, and DevOps to build scalable and secure solutions that make a difference.
 
-Welcome! I'm Mubarak—a technologist driven by a vision to use technology for real-world impact, especially in Africa. My journey brings together cloud computing, backend engineering, and cybersecurity to design secure, scalable solutions.
+Right now, I’m diving deep into cloud-native architectures, backend systems, and cybersecurity. I love exploring how these fields overlap to tackle challenges both globally and locally. My goal is to empower people and communities by creating technology that’s reliable, secure, and impactful.
 
-**Current Focus:**  
-I'm exploring how the intersection of cloud computing, software engineering, and cybersecurity can help design and scale secure solutions to global challenges in Africa.
+I work a lot with AWS, and I’m looking forward to adding Azure to my toolkit soon. I’m very comfortable with Linux, Python, networking, SQL, and data analytics. DevOps is a big part of my process—I love using CI/CD pipelines and containerization to build and deploy reliable systems.
 
-**End Goal:**  
-To design and deploy technology-powered solutions that address Africa’s pressing problems.
+Security is always a top priority for me. I pay close attention to threat modeling, vulnerability assessments, and secure coding practices to make sure solutions are resilient and trustworthy.
 
-## Skills & Expertise
+Collaboration and empathy matter just as much as technical expertise. I believe in clear communication, first principles thinking, and putting people at the heart of every project.
 
-**Technical:**  
-Linux · Python · Networking · SQL · Data Visualization · Data Analytics
+If you’re interested in DevOps, cloud engineering, backend solutions, or building resilient systems, check out my featured project:
 
-**Soft Skills:**  
-Proactive & Analytical Communication · Empathy · Effective Collaboration · First Principles Thinking · Human-Centered Design
+[ALX System Engineering DevOps](https://github.com/MubrexNode01/alx-system_engineering-devops)  
+This repository documents my growth as a technologist and showcases my work in DevOps, cloud, and backend engineering for Africa.
 
-## Featured Project
+I’m always learning; whether it’s about distributed systems, security best practices, automation, or using software engineering for social impact. Open source and tech for good really motivate me.
 
-[ALX System Engineering Devops](https://github.com/MubrexNode01/alx-system_engineering-devops)  
-This repo documents my journey to becoming a senior technologist and showcases my work in DevOps, cloud, and backend engineering as I build solutions for Africa.
+Want to connect?  
+Find me on [LinkedIn](https://www.linkedin.com/in/mubarak-a-m/), [Twitter/X](https://x.com/MustyMubrex), or my [Google Site](https://sites.google.com/view/mubarakade).
 
-## Learning & Interests
+When I’m not coding, I love reading, traveling, playing football, and discovering new tech ideas.
 
-- Building cloud-native architectures for scalable solutions
-- Designing secure systems using cybersecurity best practices
-- Applying software engineering to Africa’s unique challenges
-- Creating technology-powered solutions that have real impact
-
-## Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/mubarak-a-m/) · [Twitter/X](https://x.com/MustyMubrex) · [Google Site](https://sites.google.com/view/mubarakade)
-
-## Fun Facts & Hobbies
-
-I love reading, traveling, playing football, and surfing the internet for new ideas and inspiration.
-
----
-
-Technology is a tool, let’s use it to build a better future for Africa and beyond.
+Technology is a catalyst for change. Let’s build a smarter, safer, and more inclusive future for Africa and the world.
